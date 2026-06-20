@@ -69,7 +69,7 @@ The quantitative phase of the study was approved by the Ethics Committee of Univ
 Citation
 
 Please cite the associated article when using the data, model, materials, or code from this repository:
-Soria-Barrero, K., et al. (forthcoming). Exploring the Influence of Higher Education on Sustainable Entrepreneurial Intention in Latin American Countries: A Mixed-Method Approach.
+Soria-Barreto, K., et al. (forthcoming). Exploring the Influence of Higher Education on Sustainable Entrepreneurial Intention in Latin American Countries: A Mixed-Method Approach.
 
 License
 
